@@ -1,5 +1,5 @@
 # Assignment-1
- ##Welcome header for Vector Corporation.
+ ## Welcome header for Vector Corporation.
 _Describes the Innovative approaches of Vector Corporation_  
 * vProspect 2.0  
 * vConvert 2.0  
